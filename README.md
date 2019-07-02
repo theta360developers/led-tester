@@ -22,7 +22,7 @@ Separately turn on and off the 5 main front LEDs
 Good luck using the THETA LEDs and creating you own unique interesting UX for the camera.
 
 References: 
-I used the following tutorial as a starting point. The tutorial was translated
+The following tutorial was used as a starting point. The tutorial was translated
 into English by the THETA community. Please see the discussion at the link
 below to contribute.
 
